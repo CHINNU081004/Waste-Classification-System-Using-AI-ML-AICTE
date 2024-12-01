@@ -11,7 +11,7 @@ Internship project: AICTE || SHELL || EDUNET FOUNDATION
 
 An intuitive web-based application to classify waste into **Organic** or **Inorganic** categories, promoting sustainability and eco-friendly practices. The app leverages the power of **TensorFlow**, **OpenCV**, and **Streamlit** to deliver real-time predictions with an elegant user interface.
 
-![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Untitled%20design%20(1).gif)
+![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Streamlit%20-%20Google%20Chrome%2001-12-2024%203.52.45%20PM.png)
 
 ---
 
@@ -50,12 +50,12 @@ An intuitive web-based application to classify waste into **Organic** or **Inorg
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Screenshot%202024-11-26%20221913.jpg)
+![Home Page](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Streamlit%20-%20Google%20Chrome%2001-12-2024%203.52.45%20PM.png)
 
 ### Demo
-![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Untitled%20design.gif)
+![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Streamlit%20-%20Google%20Chrome%202024-12-01%2016-08-38.mp4)
 
-![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Untitled%20design%20(1).gif)
+![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Streamlit%20-%20Google%20Chrome%202024-12-01%2016-09-02.mp4)
 
 ---
 

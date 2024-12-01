@@ -159,7 +159,7 @@ import streamlit as st
 import requests
 
 # Fetch the raw content of the README file
-url = "https://github.com/CHINNU081004/Waste-classification-model/blob/main/README.md"
+url = "https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/README.md"
 response = requests.get(url)
 
 # Apply custom CSS for padding and styling
