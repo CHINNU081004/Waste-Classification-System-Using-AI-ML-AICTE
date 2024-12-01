@@ -87,7 +87,7 @@ An intuitive web-based application to classify waste into **Organic** or **Inorg
 
 ## 🧑‍💻 Developed By  
 
-**Hitesh Kumar**  
+**B Hemanth reddy**  
 📧 [hemanthchinnu081004@gmail.com](mailto:hemanthchinnu081004@gmail.com)  
 🌐 [LinkedIn](www.linkedin.com/in/hemanth-reddy-855712282/) | [GitHub](https://https://github.com/CHINNU081004)  
 
