@@ -1,7 +1,7 @@
 # Waste-classification-model-cnn
 Internship project: AICTE || SHELL || EDUNET FOUNDATION
 
-# <a href="https://waste-classification-model-cnn.streamlit.app/" target="_blank">Live at Streamlit</a>
+# <a href="https://waste-classification-system-aicte.streamlit.app/" target="_blank">Live at Streamlit</a>
 
 # 🌿 Waste Classification App  
 
@@ -53,9 +53,9 @@ An intuitive web-based application to classify waste into **Organic** or **Inorg
 ![Home Page](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Streamlit%20-%20Google%20Chrome%2001-12-2024%203.52.45%20PM.png)
 
 ### Demo
-![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Streamlit%20-%20Google%20Chrome%202024-12-01%2016-08-38.mp4)
+![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Untitled%20video%20(1).gif)
 
-![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Streamlit%20-%20Google%20Chrome%202024-12-01%2016-09-02.mp4)
+![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Untitled%20video.gif)
 
 ---
 
