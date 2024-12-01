@@ -11,7 +11,7 @@ Internship project: AICTE || SHELL || EDUNET FOUNDATION
 
 An intuitive web-based application to classify waste into **Organic** or **Inorganic** categories, promoting sustainability and eco-friendly practices. The app leverages the power of **TensorFlow**, **OpenCV**, and **Streamlit** to deliver real-time predictions with an elegant user interface.
 
-![Upload Image](https://github.com/Hiteshydv001/Waste-classification-model-cnn/blob/main/Untitled%20design%20(1).gif)
+![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Untitled%20design%20(1).gif)
 
 ---
 
@@ -50,12 +50,12 @@ An intuitive web-based application to classify waste into **Organic** or **Inorg
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](https://github.com/Hiteshydv001/Waste-classification-model-cnn/blob/main/Screenshot%202024-11-26%20221913.jpg)
+![Home Page](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Screenshot%202024-11-26%20221913.jpg)
 
 ### Demo
-![Upload Image](https://github.com/Hiteshydv001/Waste-classification-model-cnn/blob/main/Untitled%20design.gif)
+![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Untitled%20design.gif)
 
-![Upload Image](https://github.com/Hiteshydv001/Waste-classification-model-cnn/blob/main/Untitled%20design%20(1).gif)
+![Upload Image](https://github.com/CHINNU081004/Waste-Classification-System-Using-AI-ML-AICTE/blob/main/Untitled%20design%20(1).gif)
 
 ---
 
@@ -88,8 +88,8 @@ An intuitive web-based application to classify waste into **Organic** or **Inorg
 ## 🧑‍💻 Developed By  
 
 **Hitesh Kumar**  
-📧 [hiteshofficial0001@gmail.com](mailto:hiteshofficial0001@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/hitesh-kumar-aiml/) | [GitHub](https://github.com/Hiteshydv001)  
+📧 [hemanthchinnu081004@gmail.com](mailto:hemanthchinnu081004@gmail.com)  
+🌐 [LinkedIn](www.linkedin.com/in/hemanth-reddy-855712282/) | [GitHub](https://https://github.com/CHINNU081004)  
 
 ---
 
